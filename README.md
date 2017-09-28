@@ -5,7 +5,7 @@ Simple Curl
 ### Использование
 ```php
 //Инициализация нового экземпляра класса
-$curl = curl::app('http://site.ru/');
+$curl = curl::create('http://site.ru/');
 ```
 
 ### Установка опций
