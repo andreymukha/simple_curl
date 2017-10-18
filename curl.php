@@ -307,7 +307,7 @@ class Curl {
 	 *
 	 * @return $this
 	 */
-	public function setCookie($cookie, $file = false, $path){
+	public function setCookie($cookie, $file = false, $path = ''){
 		if($file){
 			if(!file_exists($path)){
 				mkdir($path, 0777, true);
