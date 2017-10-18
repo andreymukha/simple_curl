@@ -2,7 +2,6 @@
   "name": "andreymukha/simple_curl",
   "description": "Лёгкая обёртка для запросов Curl",
   "keywords": ["curl"],
-  "minimum-stability": "1.0.0",
   "version": "1.0.0",
   "license": "MIT",
   "authors": [
