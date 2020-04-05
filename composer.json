@@ -14,5 +14,9 @@
     "psr-4": {
       "AndreyMukha\\": ""
     }
+  },
+  "require": {
+    "ext-curl": "*",
+    "ext-iconv": "*"
   }
 }
